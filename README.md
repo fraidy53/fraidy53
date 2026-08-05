@@ -22,25 +22,16 @@
 
 ## About Me
 
-수원대학교 정보보호학과에서 개발 기반을 쌓고, **SK쉴더스 루키즈 개발 5기**에서 Cloud/DevOps로 방향을 잡았습니다.
+수원대학교 정보보호학과 · **SK쉴더스 루키즈 개발 5기**에서 Cloud/DevOps로 방향을 잡았습니다.
 
 백엔드 요청 흐름을 이해한 뒤 인프라를 설계하고, 장애가 나면 FE → BE → MQ → Consumer → VPN → GPU처럼 **레이어를 따라 원인을 좁히는** 방식으로 일합니다.  
 기능이 돌아가는 것보다, 팀이 같은 기준으로 배포·복구할 수 있는 구조를 남기는 일을 중요하게 생각합니다.
 
 | | |
 |---|---|
-| **Education** | 수원대학교 정보보호학과 · 평점 4.01/4.5 |
-| **Training** | SK쉴더스 루키즈 개발 5기 (2026.02–07) · **개인 성적우수 1위** |
+| **Education** | 수원대학교 정보보호학과 |
+| **Training** | SK쉴더스 루키즈 개발 5기 (2026.02–07) |
 | **Focus** | AWS · EKS · GitOps · Terraform · 하이브리드 운영 |
-
----
-
-## Highlights
-
-- **최우수상 (전체 2위)** — SK쉴더스 루키즈 최종 프로젝트 · ForenShield Cloud/DevOps
-- **개인 성적우수 1위** — SK쉴더스 루키즈 개발 5기
-- **교내 1위** — FOCUS · 저시력 시각장애인 배달 앱 접근성 위젯
-- **중간평가 우수** — 2025 ICT 한이음 드림업 · EUM
 
 ---
 
@@ -64,12 +55,16 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
+### Also used in projects
+`Flutter` · `Kotlin` · `React` · `TypeScript` · `Vite`  
+프론트는 주력이 아니지만, FOCUS·미니 프로젝트·팀 통합 과정에서 다뤄 본 스택입니다.
+
 ---
 
 ## Featured Projects
 
 ### 1. ForenShield — 안티 딥페이크 디지털 포렌식 플랫폼
-**SK쉴더스 루키즈 최종 프로젝트 · 2026.05–07 · 6인 · Cloud/DevOps · 최우수상**
+**SK쉴더스 루키즈 최종 프로젝트 · 2026.05–07 · 6인 · Cloud/DevOps**
 
 딥페이크 탐지와 증거 무결성 검증을 하나의 운영 가능한 서비스로 연결한 플랫폼입니다.  
 FE·BE·AI Consumer를 **AWS EKS**에서 운영하고, 무거운 추론은 **Site-to-Site VPN**으로 온프레미스 GPU에 연결했습니다.
@@ -103,7 +98,7 @@ JWT·RBAC·Redis OTP 기반 인증과 근태 규칙을 구현하고,
 ---
 
 ### 3. EUM — 저시력 시각장애인 배달 앱 가이드
-**2025 ICT 한이음 드림업 · 2025.03–10 · 5인 · Backend 전체 · 중간평가 우수**
+**2025 ICT 한이음 드림업 · 2025.03–10 · 5인 · Backend 전체**
 
 인증·소셜 로그인·AI 챗봇·이미지 인식 API를 구현하고,  
 RDS · Bedrock · Polly · Rekognition · S3를 연동했습니다.  
@@ -117,7 +112,7 @@ IAM·CORS·DTO 불일치를 잡으며 프론트–백엔드 통합을 마무리�
 
 | Project | Role | Stack | What I learned |
 |---|---|---|---|
-| **FOCUS** | Flutter/Kotlin · 교내 1위 | Flutter, MethodChannel | 패키지 한계를 네이티브 통신으로 우회 |
+| **FOCUS** | Flutter/Kotlin | Flutter, MethodChannel | 패키지 한계를 네이티브 통신으로 우회 |
 | **QuestLog** | Backend | Spring Boot | 재현 가능한 API 테스트 가이드 |
 | **SafeRide** | IoT | UART, 센서 | 임계값·디바운싱으로 오작동 개선 |
 
