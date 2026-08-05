@@ -144,8 +144,8 @@ IAM·CORS·DTO 불일치를 잡으며 프론트–백엔드 통합을 마무리�
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fraidy53&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=0969DA" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraidy53&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=fraidy53&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=0969DA" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fraidy53&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A" alt="Top languages" />
 </div>
 
 ---
